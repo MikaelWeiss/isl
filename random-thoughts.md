@@ -6,13 +6,13 @@ I want this to be something that people can use for anything, not just coding pr
 
 First draft:
 
-# PRJ 1.0 | Add Item to Cart | HIGH | DRAFT
+# PRJ 1.0 | Add Item to Cart | HIGH
 
 ## Spec
 given/when/then
 or, whatever you want
 
-## Context
+## References
 Other related specs
 
 ## Links
@@ -23,4 +23,47 @@ Files: ./src/cart/CartActions.js
 
 Example:
 
+---
+
+# Project Overview:
+
+## 1 Code & Architecture
+
+## 2 User Experience
+
+### 2.1 Users should have a seamless experience
+
+### 2.2 Each interaction should be simple
+
+### 2.3 Calendar View
+
+## 3 Testing & Quality
+
+## 4 Deployment & Infrastructure
+
+## 5 Security & Compliance
+
+## 6 Monitoring & Analytics
+
+---
+
+# 2.1.1 | User can drag item to trash | MEDIUM
+
+## Spec
+Given: User has event
+When: User starts drag
+Then: Plus FAB should turn into a red trash can icon
+Given: User drags the event to the trash can
+When: user lets go
+Then: event is deleted
+OR
+When the user drags an event in the calendar view, the plus button FAB should turn into a red trash can, that they can drag to in order to delete the event.
+
+## References
+[2.1](2.1)
+[2.2](2.2)
+
+## Links
+Linear: DEV-276 | GitHub: #371
+**Files:** /Strive/Presentation/Components/FloatingActionButton.swift /Strive/Presentation/Scenes/Calendar/CalendarView.swift /Strive/Presentation/Scenes/Calendar/EventView.swift /Strive/Presentation/Scenes/Calendar/EventsView.swift
 
