@@ -67,3 +67,4 @@ When the user drags an event in the calendar view, the plus button FAB should tu
 Linear: DEV-276 | GitHub: #371
 **Files:** /Strive/Presentation/Components/FloatingActionButton.swift /Strive/Presentation/Scenes/Calendar/CalendarView.swift /Strive/Presentation/Scenes/Calendar/EventView.swift /Strive/Presentation/Scenes/Calendar/EventsView.swift
 
+## Ambiguity: NONE | Fulfilled: NO | Last Updated: 2025-01-14 | Last Tested: 2025-06-14
