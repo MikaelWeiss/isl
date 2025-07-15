@@ -67,4 +67,4 @@ Features of the TUI will include the following:
 - The ability to "chat" with your specs and quickly add or update specs.
 
 ## License
-This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
