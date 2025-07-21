@@ -1,8 +1,14 @@
 Hi
 
-This is the repository for the Interface Specification Language (ISL)
+# Interface Specifications Language (ISL)
 
 ISL is in and of itself simply a format for writing specifications for a project. There us a little bit of structure, but it differs from things like qucumber because it won't be parsed by a computer, just by AI.
+
+### Other projects
+kiro.dev came out the day after I first had this idea, and I tried it out.
+Kiro.dev made three files, requirements.md, design.md, and tasks.md, with over 500 lines in total. This is WAY too much in my opinion. If I want to start a task, I want a *much* shorter plan. I want it to fit on my screen.
+
+## Spec Structure
 
 Here is an example of a project overview:
 
