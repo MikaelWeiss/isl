@@ -80,3 +80,8 @@ Linear: DEV-276 | GitHub: #371
 I think that the best thing would be if the context/specs automatically updated as the user used Claude Code, Cursor etc.
 
 Like maybe some sort of instructions that explain to it how to proactively update the specs files as it goes.
+
+
+# Thoughts on Kiro
+
+I felt like it was completely overwhelming. It produced so much text for the Requirements, design, and task list that there was no way I was going to actually read and verify all of it.
